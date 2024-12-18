@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+}
+span {
+    color: rgb(2, 29, 2);
+}
+h3 {
+    background-color: green;
+}
+td {
+    border: 2px solid rgb(207, 196, 196)
+    border-collapse: separate;
+    background-color: rgb(47, 42, 42)
+
+ span{
+    color: rgt(2,29,2)
+    font-family: Arial
+    
+
+ }
+    
+}
